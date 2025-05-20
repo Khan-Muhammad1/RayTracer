@@ -1,0 +1,11 @@
+NEAR 1
+LEFT -1
+RIGHT 1
+BOTTOM -1
+TOP 1
+RES 60 60
+SPHERE sphereone 0 0 -3 0.1 0.1 0.1 0.5 0 0 1 1 0.2 0 150
+LIGHT lightone 0 0 10 1 1 1
+BACK 1 1 1
+AMBIENT 0.2 0.2 0.2
+OUTPUT testTiny.ppm
